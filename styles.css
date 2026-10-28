@@ -1,0 +1,40 @@
+
+.edu-qld-hand-<uniquifier> {
+  font-family: "Edu QLD Hand", cursive;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.source-code-pro-<uniquifier> {
+  font-family: "Source Code Pro", monospace;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+.menu{
+	font-family: "Source Code Pro", monospace;
+	text-align: center;
+}
+.menuItem{
+	border: 10px; 
+	margin-left: 30px;
+	padding: 15px;
+	border-radius: 1px solid red;
+	display: inline;
+	background-color: #ffe680;
+}
+body{
+	background-image: url("myBackground.png")
+}
+.transparentBox:hover {
+	background-color: #ffff00;
+	opacity: 0.4;
+}
+.container{
+	font-family: "Edu QLD Hand", cursive;
+	color: #804000;
+}
+.container h2 {
+	color: #806000;
+}
